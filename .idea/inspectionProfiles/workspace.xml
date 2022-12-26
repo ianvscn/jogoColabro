@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd84abd7-5678-48bb-b39b-10287c0ded2b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i40ssi4Kz7eKUZ6ovxrGuBjn3y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.escolha_pilulas001">
+    <configuration name="escolha_pilulas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="projetoKezia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/escolha_pilulas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="escolha_pilulas001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="projetoKezia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/escolha_pilulas001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="inicio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="projetoKezia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inicio.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="projetoKezia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testeInicial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="projetoKezia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testeInicial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testeInicial2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="projetoKezia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testeInicial2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.escolha_pilulas001" />
+        <item itemvalue="Python.testeInicial2" />
+        <item itemvalue="Python.testeInicial" />
+        <item itemvalue="Python.inicio" />
+        <item itemvalue="Python.escolha_pilulas" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd84abd7-5678-48bb-b39b-10287c0ded2b" name="Default Changelist" comment="" />
+      <created>1601151767611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601151767611</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="947" y="257" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606753397487">
+      <screen x="0" y="25" width="1680" height="956" />
+    </state>
+    <state x="947" y="255" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1606749231561" />
+    <state x="947" y="257" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.963@0.23.1680.963" timestamp="1605036718874" />
+    <state x="947" y="257" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1680.954@0.25.1680.954" timestamp="1606749955038" />
+    <state x="947" y="257" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1680.956@0.25.1680.956" timestamp="1606753397487" />
+    <state width="558" height="242" key="GridCell.Tab.0.bottom" timestamp="1606789992288">
+      <screen x="0" y="25" width="1680" height="956" />
+    </state>
+    <state width="828" height="252" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1606762786102" />
+    <state width="951" height="48" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1605029680554" />
+    <state width="920" height="167" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1605043705654" />
+    <state width="920" height="167" key="GridCell.Tab.0.bottom/0.23.1680.965@0.23.1680.965" timestamp="1605037312422" />
+    <state width="558" height="242" key="GridCell.Tab.0.bottom/0.25.1680.954@0.25.1680.954" timestamp="1606776488855" />
+    <state width="558" height="242" key="GridCell.Tab.0.bottom/0.25.1680.956@0.25.1680.956" timestamp="1606789992288" />
+    <state width="829" height="190" key="GridCell.Tab.0.bottom/0.25.1680.958@0.25.1680.958" timestamp="1606753350080" />
+    <state width="578" height="190" key="GridCell.Tab.0.bottom/0.25.1680.959@0.25.1680.959" timestamp="1606753262548" />
+    <state width="558" height="242" key="GridCell.Tab.0.center" timestamp="1606789992287">
+      <screen x="0" y="25" width="1680" height="956" />
+    </state>
+    <state width="828" height="252" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1606762786101" />
+    <state width="951" height="48" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1605029680553" />
+    <state width="920" height="167" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1605043705653" />
+    <state width="920" height="167" key="GridCell.Tab.0.center/0.23.1680.965@0.23.1680.965" timestamp="1605037312421" />
+    <state width="558" height="242" key="GridCell.Tab.0.center/0.25.1680.954@0.25.1680.954" timestamp="1606776488854" />
+    <state width="558" height="242" key="GridCell.Tab.0.center/0.25.1680.956@0.25.1680.956" timestamp="1606789992287" />
+    <state width="829" height="190" key="GridCell.Tab.0.center/0.25.1680.958@0.25.1680.958" timestamp="1606753350079" />
+    <state width="578" height="190" key="GridCell.Tab.0.center/0.25.1680.959@0.25.1680.959" timestamp="1606753262547" />
+    <state width="558" height="242" key="GridCell.Tab.0.left" timestamp="1606789992286">
+      <screen x="0" y="25" width="1680" height="956" />
+    </state>
+    <state width="828" height="252" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1606762786101" />
+    <state width="951" height="48" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1605029680553" />
+    <state width="920" height="167" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1605043705653" />
+    <state width="920" height="167" key="GridCell.Tab.0.left/0.23.1680.965@0.23.1680.965" timestamp="1605037312420" />
+    <state width="558" height="242" key="GridCell.Tab.0.left/0.25.1680.954@0.25.1680.954" timestamp="1606776488854" />
+    <state width="558" height="242" key="GridCell.Tab.0.left/0.25.1680.956@0.25.1680.956" timestamp="1606789992286" />
+    <state width="829" height="190" key="GridCell.Tab.0.left/0.25.1680.958@0.25.1680.958" timestamp="1606753350079" />
+    <state width="578" height="190" key="GridCell.Tab.0.left/0.25.1680.959@0.25.1680.959" timestamp="1606753262546" />
+    <state width="558" height="242" key="GridCell.Tab.0.right" timestamp="1606789992288">
+      <screen x="0" y="25" width="1680" height="956" />
+    </state>
+    <state width="828" height="252" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1606762786102" />
+    <state width="951" height="48" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1605029680554" />
+    <state width="920" height="167" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1605043705653" />
+    <state width="920" height="167" key="GridCell.Tab.0.right/0.23.1680.965@0.23.1680.965" timestamp="1605037312421" />
+    <state width="558" height="242" key="GridCell.Tab.0.right/0.25.1680.954@0.25.1680.954" timestamp="1606776488855" />
+    <state width="558" height="242" key="GridCell.Tab.0.right/0.25.1680.956@0.25.1680.956" timestamp="1606789992288" />
+    <state width="829" height="190" key="GridCell.Tab.0.right/0.25.1680.958@0.25.1680.958" timestamp="1606753350079" />
+    <state width="578" height="190" key="GridCell.Tab.0.right/0.25.1680.959@0.25.1680.959" timestamp="1606753262547" />
+    <state x="260" y="234" width="670" height="676" key="search.everywhere.popup" timestamp="1601154801939">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="260" y="234" width="670" height="676" key="search.everywhere.popup/0.23.1680.961@0.23.1680.961" timestamp="1601154801939" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
